@@ -14,5 +14,7 @@ The stream from the raspberrypi camera accessed via the machines IP address in t
 
 
 FYI
-The connect.php has been removed for security reasons 
+
+The connect.php has been removed for security reasons.
+
 The Python code on the raspberryPi for the stream page has yet to be added.
