@@ -137,7 +137,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 							<li class="hidden"><a class="page-scroll scroll" href="#page-top"></a>	</li>
 							<li><a class="page-scroll scroll" href="#home">Home</a></li>
 							<li><a class="page-scroll scroll" href="#about">About</a></li>
-							<li><a href= >Stream</a></li>
+							<li><a href= http://'IP ADDRESS GOES HERE'/html/# >Stream</a></li>
 							<li><a class="page-scroll scroll" href="#users">Photo database</a></li>
 <li><a href="/logout.php" class="btn btn-info" role="button">Log Out</a></li>
 							<li><a class="page-scroll scroll" href="#contact">Contact</a></li>
