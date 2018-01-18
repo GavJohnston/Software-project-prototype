@@ -18,3 +18,20 @@ FYI
 The connect.php has been removed for security reasons.
 
 The Python code on the raspberryPi for the stream page has yet to be added.
+
+
+![](New%20images/1.PNG)
+
+![](New%20images/index-pages.PNG)
+
+![](New%20images/about1.PNG)
+
+![](New%20images/about2.PNG)
+
+![](New%20images/users1.PNG)
+
+![](New%20images/users2.PNG)
+
+![](New%20images/users3.PNG)
+
+![](New%20images/contact1.PNG)
